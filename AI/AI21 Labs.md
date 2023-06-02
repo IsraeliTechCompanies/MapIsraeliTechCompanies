@@ -7,7 +7,7 @@
 - **Industry:** [Industry]
 - **Founded:** [2017]
 - **Location:** [Tel-Aviv, Israel]
-- **Website:** [[Company Website](https://www.ai21.com/)]
+- **Website:** [[AI21 Labs Website](https://www.ai21.com/)]
 
 ## About [AI21 Labs]
 
