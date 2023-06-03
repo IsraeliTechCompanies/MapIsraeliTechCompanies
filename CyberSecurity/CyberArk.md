@@ -29,7 +29,7 @@ CyberArk is a leading global provider of privileged access management (PAM) solu
 
 - **Founder:** Udi Mokady
 - **CEO:** Matthew Cohen
-- **CTO:** Omer Grossman
+- **CIO:** Omer Grossman
 - **CFO:** Josh Siegel
 - **Head of Marketing:** Simon Mouyal
 - **Head of Product:** Peretz Regev
