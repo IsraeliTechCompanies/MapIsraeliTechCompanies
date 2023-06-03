@@ -27,12 +27,13 @@ CyberArk is a leading global provider of privileged access management (PAM) solu
 
 ## Team
 
-- **Founder and CEO:** Udi Mokady
-- **CTO:** Chen Bitan
+- **Founder:** Udi Mokady
+- **CEO:** Matthew Cohen
+- **CTO:** Omer Grossman
 - **CFO:** Josh Siegel
-- **Head of Marketing:** Marianne Budnik
-- **Head of Product:** Adam Bosnian
-- **Head of Sales:** Matthew Cohen
+- **Head of Marketing:** Simon Mouyal
+- **Head of Product:** Peretz Regev
+- **Head of Sales:** Matthew Martelle
 
 ## Funding
 
@@ -43,8 +44,8 @@ CyberArk is a leading global provider of privileged access management (PAM) solu
 ## Contact Information
 
 - **Email:** [info@cyberark.com](mailto:info@cyberark.com)
-- **Phone:** +1-617-965-1544
-- **Address:** 60 Wells Avenue, Newton, MA 02459, United States
+- **Phone:** +972-3-918-0000
+- **Address:**  9 Hapsagot St. Park Ofer 2 P.O. Box 3143 Petach-Tikva 4951040, Israel
 
 ## Social Media Profiles
 
