@@ -1,59 +1,61 @@
-# [Company Name]
+# CyberArk
 
-![Company Logo](logo_image.jpg)
+![CyberArk Logo](logo_image.jpg)
 
 ## Overview
 
-- **Industry:** [Industry]
-- **Founded:** [Founding Year]
-- **Location:** [City, Country]
-- **Website:** [Company Website]
+- **Industry:** Cybersecurity
+- **Founded:** 1999
+- **Location:** Newton, Massachusetts, United States
+- **Website:** [www.cyberark.com](https://www.cyberark.com)
 
-## About [Company Name]
+## About CyberArk
 
-[Company Name] is a [brief description of the company]. [Provide key information about the company's mission, vision, and unique selling points.]
+CyberArk is a leading global provider of privileged access management (PAM) solutions. The company is dedicated to protecting organizations from cyber threats by securing and managing privileged accounts, credentials, and secrets. With an extensive portfolio of innovative security solutions, CyberArk helps organizations prevent, detect, and respond to cyber attacks, ensuring the confidentiality, integrity, and availability of critical assets and information.
 
 ## Key Products/Services
 
-- **Product/Service 1:** [Description]
-- **Product/Service 2:** [Description]
-- **Product/Service 3:** [Description]
+- **CyberArk Privileged Access Security:** A comprehensive PAM solution that provides secure access control, session monitoring, and advanced threat analytics for privileged accounts.
+- **CyberArk Endpoint Privilege Manager:** Protects endpoints from cyber threats by enforcing least privilege policies, managing application control, and preventing malicious activity.
+- **CyberArk Identity Security:** Enables secure management of user identities, authentication, and authorization across hybrid environments.
 
 ## Key Achievements
 
-- [Achievement 1]
-- [Achievement 2]
-- [Achievement 3]
+- Named a Leader in the Gartner Magic Quadrant for Privileged Access Management.
+- Received numerous industry awards for cybersecurity innovation and excellence.
+- Trusted by thousands of global organizations, including Fortune 500 companies, to secure their critical assets.
 
 ## Team
 
-- **Founder/CEO:** [Founder/CEO Name]
-- **CTO:** [CTO Name]
-- **CFO:** [CFO Name]
-- **Head of Marketing:** [Marketing Head Name]
-- **Head of Operations:** [Operations Head Name]
-- [Add more team members as necessary]
+- **Founder and CEO:** Udi Mokady
+- **CTO:** Chen Bitan
+- **CFO:** Josh Siegel
+- **Head of Marketing:** Marianne Budnik
+- **Head of Product:** Adam Bosnian
+- **Head of Sales:** Matthew Cohen
 
 ## Funding
 
-- **Total Funding:** [Total Funding Amount]
-- **Investors:** [Investor 1], [Investor 2], [Investor 3], ...
-- **Latest Funding Round:** [Latest Funding Round and Amount]
+- **Total Funding:** Over $400 million
+- **Investors:** Insight Partners, Jerusalem Venture Partners, Vertex Ventures, and others
+- **Latest Funding Round:** CyberArk went public (NASDAQ: CYBR) in 2014.
 
 ## Contact Information
 
-- **Email:** [Contact Email]
-- **Phone:** [Contact Phone Number]
-- **Address:** [Company Address]
+- **Email:** [info@cyberark.com](mailto:info@cyberark.com)
+- **Phone:** +1-617-965-1544
+- **Address:** 60 Wells Avenue, Newton, MA 02459, United States
 
 ## Social Media Profiles
 
-- [LinkedIn](LinkedIn URL)
-- [Twitter](Twitter URL)
-- [Facebook](Facebook URL)
-- [Instagram](Instagram URL)
-- [Other Social Media Profiles]
+- [LinkedIn](https://www.linkedin.com/company/cyberark/)
+- [Twitter](https://twitter.com/CyberArk)
+- [Facebook](https://www.facebook.com/CyberArk)
+- [Instagram](https://www.instagram.com/cyberark/)
+- [YouTube](https://www.youtube.com/user/CyberArkSoftware)
 
 ## Additional Information
 
-[Provide any additional information about the company, such as awards, partnerships, notable clients, etc.]
+CyberArk has been recognized as a leader and innovator in the cybersecurity industry. The company's solutions are trusted by organizations worldwide to secure their most critical assets, prevent data breaches, and meet regulatory compliance requirements. CyberArk's dedication to continuous innovation and customer success has positioned them as a key player in the privileged access management space.
+
+For more information about CyberArk and their cybersecurity solutions, please visit their [official website](https://www.cyberark.com).
