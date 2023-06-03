@@ -28,7 +28,7 @@ AI21 Labs is an innovative artificial intelligence company focused on advancing 
 ## Team
 
 - **Co-Founder and CEO:** Dr. Amnon Shashua
-- **Co-Founder and CTO:** Dr. Ori Goshen
+- **Co-Founder and Co-CEO:** Dr. Ori Goshen
 - **Chief Scientist:** Prof. Yoav Shoham
 - **Head of Research:** Dr. Adam Roberts
 - **Head of Engineering:** Dr. Tal Shaked
