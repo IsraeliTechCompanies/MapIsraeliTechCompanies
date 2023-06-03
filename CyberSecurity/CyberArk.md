@@ -6,7 +6,7 @@
 
 - **Industry:** Cybersecurity
 - **Founded:** 1999
-- **Location:** Newton, Massachusetts, United States
+- **Location:** Petah-Tikva, Israel
 - **Website:** [www.cyberark.com](https://www.cyberark.com)
 
 ## About CyberArk
