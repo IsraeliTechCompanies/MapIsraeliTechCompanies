@@ -48,7 +48,7 @@ AI21 Labs is an innovative artificial intelligence company focused on advancing 
 
 ## Social Media Profiles
 
-- [LinkedIn](https://www.linkedin.com/company/ai21-labs/)
+- [LinkedIn](https://www.linkedin.com/company/ai21/)
 - [Twitter](https://twitter.com/ai21labs)
 - [Facebook](https://www.facebook.com/ai21labs)
 - [GitHub](https://github.com/ai21labs)
