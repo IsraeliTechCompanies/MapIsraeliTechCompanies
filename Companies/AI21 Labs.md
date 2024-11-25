@@ -1,6 +1,6 @@
 # AI21 Labs
 
-![AI21 Labs Logo](logo_image.jpg)
+![AI21 Labs Logo](https://cdn.prod.website-files.com/60fd4503684b466578c0d307/60ff0505b0dbe005faac0c84_AI21%20Logo.svg)
 
 ## Overview
 

@@ -53,6 +53,7 @@ CyberArk is a leading global provider of privileged access management (PAM) solu
 - [Twitter](https://twitter.com/CyberArk)
 - [Facebook](https://www.facebook.com/CyberArk)
 - [YouTube](https://www.youtube.com/user/CyberArkSoftware)
+- [GitHub](https://github.com/CyberArk)
 
 ## Additional Information
 
