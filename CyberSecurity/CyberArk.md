@@ -1,6 +1,6 @@
 # CyberArk
 
-![CyberArk Logo](logo_image.jpg)
+![CyberArk Logo](https://www.cyberark.com/wp-content/uploads/2024/10/cyberark-logo.svg)
 
 ## Overview
 
